@@ -117,7 +117,6 @@ Just open `index.html` in any browser. It automatically fetches:
 
 **Kishore Selvarajan**
 💡 IoT Developer | 🌐 Web Developer
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
 
 ---
 
@@ -126,8 +125,3 @@ Just open `index.html` in any browser. It automatically fetches:
 MIT License – use freely and modify!
 
 ---
-
-```
-
-Let me know if you want me to bundle this into a ZIP or help set up GitHub Pages deployment for the frontend.
-```
